@@ -1,4 +1,4 @@
-module github.com/franklee0817/t3k/fetcher
+module github.com/TarsTestToolKit/ResFetcher
 
 go 1.14
 

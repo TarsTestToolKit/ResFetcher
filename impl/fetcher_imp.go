@@ -3,9 +3,9 @@ package impl
 import (
 	"context"
 
-	"github.com/franklee0817/t3k/fetcher/services/cpu"
-	"github.com/franklee0817/t3k/fetcher/services/memory"
-	fetchertars "github.com/franklee0817/t3k/fetcher/tars-protocol/TarsTestToolKit"
+	"github.com/TarsTestToolKit/ResFetcher/services/cpu"
+	"github.com/TarsTestToolKit/ResFetcher/services/memory"
+	fetchertars "github.com/TarsTestToolKit/ResFetcher/tars-protocol/TarsTestToolKit"
 )
 
 // FetcherImp servant implementation
