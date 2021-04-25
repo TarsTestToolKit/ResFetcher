@@ -1,7 +1,7 @@
 package cpu
 
 import (
-	fetchertars "github.com/TarsTestToolKit/ResFetcher/tars-protocol/TarsTestToolKit"
+	fetchertars "github.com/TarsTestToolKit/ResFetcher/tars-protocol/ResFetcher"
 
 	linuxproc "github.com/c9s/goprocinfo/linux"
 )

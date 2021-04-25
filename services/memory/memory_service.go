@@ -3,7 +3,7 @@ package memory
 import (
 	stat "github.com/mackerelio/go-osstat/memory"
 
-	fetchertars "github.com/TarsTestToolKit/ResFetcher/tars-protocol/TarsTestToolKit"
+	fetchertars "github.com/TarsTestToolKit/ResFetcher/tars-protocol/ResFetcher"
 )
 
 // Stat 获取内存统计信息

@@ -5,7 +5,7 @@ import (
 
 	"github.com/TarsTestToolKit/ResFetcher/services/cpu"
 	"github.com/TarsTestToolKit/ResFetcher/services/memory"
-	fetchertars "github.com/TarsTestToolKit/ResFetcher/tars-protocol/TarsTestToolKit"
+	fetchertars "github.com/TarsTestToolKit/ResFetcher/tars-protocol/ResFetcher"
 )
 
 // FetcherImp servant implementation

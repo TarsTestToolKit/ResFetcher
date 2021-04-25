@@ -7,7 +7,7 @@ import (
 	"github.com/TarsCloud/TarsGo/tars"
 
 	"github.com/TarsTestToolKit/ResFetcher/impl"
-	fetchertars "github.com/TarsTestToolKit/ResFetcher/tars-protocol/TarsTestToolKit"
+	fetchertars "github.com/TarsTestToolKit/ResFetcher/tars-protocol/ResFetcher"
 )
 
 func main() {
